@@ -8,8 +8,6 @@
     scroll-behavior: smooth;
  }
 
-
- /* root */
  :root{
     --text-color: #fff;
     --bg-color: #1b1f24;
@@ -22,13 +20,10 @@
     --p-font: 1rem;
  }
 
- /* body */
 body{
     color: var(--text-color);
     background: var(--bg-color);
  }
- 
- /* header */
 header{
     position: fixed;
     top: 0;
@@ -42,15 +37,11 @@ header{
     background: transparent;
     transition: all 50s ease;
 }
-
-/* logo */
 .logo{
     font-size: 36px;
     color: var(--text-color);
     font-weight: 600;
 }
-
-/* span */
 span{
     color: var(--main-color);
 }
