@@ -42,6 +42,8 @@ header{
     background: transparent;
     transition: all 50s ease;
 }
+
+/* logo */
 .logo{
     font-size: 36px;
     color: var(--text-color);
