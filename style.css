@@ -8,6 +8,8 @@
     scroll-behavior: smooth;
  }
 
+
+ /* root */
  :root{
     --text-color: #fff;
     --bg-color: #1b1f24;
