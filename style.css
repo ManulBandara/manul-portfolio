@@ -49,6 +49,8 @@ header{
     color: var(--text-color);
     font-weight: 600;
 }
+
+/* span */
 span{
     color: var(--main-color);
 }
