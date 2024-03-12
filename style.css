@@ -27,6 +27,8 @@ body{
     color: var(--text-color);
     background: var(--bg-color);
  }
+ 
+ /* header */
 header{
     position: fixed;
     top: 0;
